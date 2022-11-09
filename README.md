@@ -13,4 +13,4 @@ $ git clone https://github.com/Bavassunil/Port-Scanner.git
 
 $ cd python3 Port-Scanner
 
-$ python3 python3 portscanner.py <IP>
+$ python3 portscanner.py <IP>
