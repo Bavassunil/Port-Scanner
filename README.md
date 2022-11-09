@@ -10,5 +10,7 @@
 Lets open a CMD or Terminal, and enter commands.
 
 $ git clone https://github.com/Bavassunil/Port-Scanner.git
+
 $ cd python3 Port-Scanner
+
 $ python3 python3 portscanner.py <IP>
